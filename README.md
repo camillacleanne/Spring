@@ -39,12 +39,15 @@
 ![unknown (11)](https://user-images.githubusercontent.com/57760132/126807003-12aec31f-70e3-4052-b2f8-43f19fad3c30.png)
 ###7. Verificar se o arquivo *.pom* esta marcado.
 
+![image](https://user-images.githubusercontent.com/57760132/126812304-eddd8aa5-35ac-48ef-883d-368488c07d19.png)
+###8. Em seu pacote inicial crie um novo package que vai servir como nosso *controller*
 
 ![image](https://user-images.githubusercontent.com/57760132/126807308-758b4147-a858-4ece-a0da-042a1737fe28.png)
-###8.
+###9.Boas praticas nomear o controller e clicar no Finish
 
-8.FOTO8
+
 ![image](https://user-images.githubusercontent.com/57760132/126807359-17757a75-c493-473e-84b9-4b884bbc75be.png)
+###10.Criar uma nova classe
 
 9. FOTO9
 ![image](https://user-images.githubusercontent.com/57760132/126807904-784e40c9-9d3c-47d8-9c32-199db65e309b.png)
