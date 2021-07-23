@@ -30,18 +30,18 @@
 ###4.Entrar no *Eclipse* para importar sua pasta como *Maven project.*
 
 ![unknown (9)](https://user-images.githubusercontent.com/57760132/126806989-fddbd0b2-464a-42aa-a05c-35ceadf83ae4.png)
-###5.Selecionar a pasta extraída.
+###5.Selecionar um projeto Maven existente.
 
 ![unknown (10)](https://user-images.githubusercontent.com/57760132/126806997-9cd37116-36b8-4fde-8dc9-43c7cc881d0e.png)
-###6. verificar se o arquivo *.pom* esta marcado.
+###6.Selecionar a pasta extraída.
+
 
 ![unknown (11)](https://user-images.githubusercontent.com/57760132/126807003-12aec31f-70e3-4052-b2f8-43f19fad3c30.png)
-###7. 
-6.FOTO6
-![image](https://user-images.githubusercontent.com/57760132/126807047-7070f944-3080-4536-8055-dd2df23e1751.png)
+###7. Verificar se o arquivo *.pom* esta marcado.
 
-7.FOTO7
+
 ![image](https://user-images.githubusercontent.com/57760132/126807308-758b4147-a858-4ece-a0da-042a1737fe28.png)
+###8.
 
 8.FOTO8
 ![image](https://user-images.githubusercontent.com/57760132/126807359-17757a75-c493-473e-84b9-4b884bbc75be.png)
