@@ -1,6 +1,17 @@
 # Spring
+## Como criar meu primeiro olá mundo backend com meu projeto Spring? 
 
+## Sigam-me as pessoas boas:
+
+1. Pelo navegador entrar no site https://start.spring.io/
+  1.1 Gourp: geralmente com nome da empresa
+  1.2 Artifact: geralmente com nome do projeto
+  1.3 Adicionar as seguintes dependências:
+      Spring Boot DevTools
+      Spring Web
+      Validation
 ![unknown (6)](https://user-images.githubusercontent.com/57760132/126806902-5454a036-4738-4df4-a1a8-6ac347457d92.png)
+
 1. FOTO 1
 ![unknown (7)](https://user-images.githubusercontent.com/57760132/126806915-86de57b8-84a0-4e13-9338-05da0bb78509.png)
 2. FOTO2
