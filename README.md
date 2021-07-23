@@ -14,12 +14,24 @@
       Spring Boot DevTools
       Spring Web
       Validation
+
+###2. Clicar nno botão GENERATE CTRL +
+
 ![unknown (6)](https://user-images.githubusercontent.com/57760132/126806902-5454a036-4738-4df4-a1a8-6ac347457d92.png)
+
+###3. Ter baixado o *Winrar* para extrair os arquivos na pasta 
+
 
 1. FOTO 1
 ![unknown (7)](https://user-images.githubusercontent.com/57760132/126806915-86de57b8-84a0-4e13-9338-05da0bb78509.png)
+###4.Entrar no *Eclipse* para importar sua pasta 
+
+
 2. FOTO2
-![unknown (8)](https://user-images.githubusercontent.com/57760132/126806978-462957c2-019c-4e20-b90a-a5b56b7b366f.png)
+![unknow (8)](https://user-images.githubusercontent.com/57760132/126806978-462957c2-019c-4e20-b90a-a5b56b7b366f.png)
+
+
+
 3. FOTO3
 ![unknown (9)](https://user-images.githubusercontent.com/57760132/126806989-fddbd0b2-464a-42aa-a05c-35ceadf83ae4.png)
 4.FOTO4
