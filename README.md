@@ -62,7 +62,6 @@
 ###12. Abra o seu navegador e através na url http://localhost:8080/( aqui o caminho que vc indicou na sua anotação @RequestMapping *atenção nao pode ter espaço nesse request*) o meu ficou: http://localhost:8080/hello 
 
 .
-#VOILÁ
 ![10_bob_esponja](https://user-images.githubusercontent.com/57760132/126813685-a5ec5b03-8761-4b82-a6a8-db5e2faa3de2.gif)
 
 
