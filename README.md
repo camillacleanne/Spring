@@ -3,10 +3,14 @@
 
 ## Sigam-me as pessoas boas:
 
-1. Pelo navegador entrar no site https://start.spring.io/
-  1.1 Gourp: geralmente com nome da empresa
-  1.2 Artifact: geralmente com nome do projeto
-  1.3 Adicionar as seguintes dependências:
+###1. Pelo navegador entrar no site https://start.spring.io/
+  >
+  ###1.1 Gourp: geralmente com nome da empresa
+  >
+  ###1.2 Artifact: geralmente com nome do projeto
+  >
+  ###1.3 Adicionar as seguintes dependências:
+  >
       Spring Boot DevTools
       Spring Web
       Validation
