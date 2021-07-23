@@ -5,7 +5,7 @@
 
 ###1. Pelo navegador entrar no site https://start.spring.io/
   >
-  ###1.1 Gourp: geralmente com nome da empresa
+  ###1.1 Group: geralmente com nome da empresa
   >
   ###1.2 Artifact: geralmente com nome do projeto
   >
@@ -49,13 +49,13 @@
 ![image](https://user-images.githubusercontent.com/57760132/126807359-17757a75-c493-473e-84b9-4b884bbc75be.png)
 ###10.Criar uma nova classe
 
-9. FOTO9
+
 ![image](https://user-images.githubusercontent.com/57760132/126807904-784e40c9-9d3c-47d8-9c32-199db65e309b.png)
+###11.Utlilizar as anotações *@RequestController e @RequestMapping("/aqui dentro o caminho para exibir no http") e @GetMapping*, importante fazer os *imports* das anotações
 
-10. FOTO10
 ![image](https://user-images.githubusercontent.com/57760132/126809372-1caf9173-ca91-42e4-8d79-395058b4ae4a.png)
+###11.No seu src clicar com bot~]ao direito do mouse e na opção "run as" executar o projeto java.
 
-11. foto 11
 ![image](https://user-images.githubusercontent.com/57760132/126809939-8a56f736-a8ae-4673-92db-a9740c0dd379.png)
-
+###12. Abra o seu navegador e através na url http://localhost:8080/( aqui o caminho que vc indicou na sua anotação @RequestMapping *atenção nao pode ter espaço nesse request*) o meu ficou: http://localhost:8080/hello 
 
