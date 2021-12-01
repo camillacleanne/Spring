@@ -4,16 +4,32 @@
 ## Sigam-me as pessoas boas:
 
 ###1. Pelo navegador entrar no site https://start.spring.io/
-  >
-  ###1.1 Group: geralmente com nome da empresa
-  >
-  ###1.2 Artifact: geralmente com nome do projeto
-  >
-  ###1.3 Adicionar as seguintes dependências:
-  >
-      Spring Boot DevTools
-      Spring Web
-      Validation
+
+<br />
+
+ | Item             | Descrição                                                    |
+| ---------------- | ------------------------------------------------------------ |
+| **Name**         | Nome do Projeto (Geralmente em letras minúsculas)            |
+| **Type**         | Define o Gerenciador de Dependências (Maven)                 |
+| **Packaging**    | Define como a aplicação será empacotada (JAR)                |
+| **Java Version** | Versão do Java (a versão da imagem pode ser diferente da sua tela) |
+| **Language**     | Linguagem (Java)                                             |
+| **Group**        | O domínio reverso de sua empresa ou organização. **Exemplo:** *generation.org.br* => ***br.org.generation*** |
+| **Artifact**     | O artefato a ser gerado, ou seja, o nome da aplicação que será criada (Mesmo nome do projeto) |
+| **Version**      | Versão da API (não alterar)                                  |
+| **Description**  | Descrição do projeto                                         |
+| **Package**      | Estrutura do pacote inicial da aplicação (Group + Artifact). Exemplo: ***<u>br.org.generation.helloworld</u>*** |
+
+<br />
+
+**Dependências**
+
+      | Dependência               | Descrição                                                    |
+| ------------------------- | ------------------------------------------------------------ |
+| **Spring Web**            | Fornece todas as Bibliotecas necessárias para trabalhar com o protocolo http. |
+| **Spring Boot Dev Tools** | Permite a atualização do projeto em tempo real durante o processo de Desenvolvimento da aplicação. |
+| **Validation**            | Fornece um conjunto de anotações que permite validar os atributos das Classes da Camada Model. |
+
 
 
 
@@ -41,6 +57,17 @@
 ![unknown (11)](https://user-images.githubusercontent.com/57760132/126807003-12aec31f-70e3-4052-b2f8-43f19fad3c30.png)
 ###7. Verificar se o arquivo *.pom* esta marcado.
 
+<div align="center"> <h2>*** IMPORTANTE ***</h2></div>
+
+Caso o projeto apresente algum erro no arquivo pom.xml, utilize o <b>Guia de correção do arquivo pom.xml</b> para corrigir o problema.
+
+<br />
+
+<h2>Passo 03 - Ajuste da versão do Java (17 para 16) - arquivo pom.xml</h2>
+
+<br />
+
+**Caso você tenha configurado o seu projeto com a versão 11 do Java, ignore este passo.**
 ![image](https://user-images.githubusercontent.com/57760132/126812304-eddd8aa5-35ac-48ef-883d-368488c07d19.png)
 ###8. Em seu pacote inicial crie um novo package que vai servir como nosso *controller*
 
