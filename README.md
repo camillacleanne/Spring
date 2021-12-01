@@ -11,14 +11,14 @@
 
 <br />
 
-<br /> 
-
 <h2> 02 - Setup do Projeto</h2>
 
 <br />
 
 <h3>Configurações iniciais</h3>
+
 <br />
+
 | Item             | Descrição                                                    |
 | ---------------- | ------------------------------------------------------------ |
 | **Name**         | Nome do Projeto (Geralmente em letras minúsculas)            |
