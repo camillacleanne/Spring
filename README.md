@@ -1,13 +1,25 @@
-# Spring
+<h1> Spring </h1>
+
+<br />
+
 ## Como criar meu primeiro <olá mundo> backend com meu projeto Spring? 
 
 ## Sigam-me as pessoas boas:
 
-###1. Pelo navegador entrar no site https://start.spring.io/
+<br />
+###01. Pelo navegador entrar no site https://start.spring.io/
 
 <br />
 
- | Item             | Descrição                                                    |
+<br /> 
+
+<h2> 02 - Setup do Projeto</h2>
+
+<br />
+
+<h3>Configurações iniciais</h3>
+<br />
+| Item             | Descrição                                                    |
 | ---------------- | ------------------------------------------------------------ |
 | **Name**         | Nome do Projeto (Geralmente em letras minúsculas)            |
 | **Type**         | Define o Gerenciador de Dependências (Maven)                 |
@@ -22,16 +34,25 @@
 
 <br />
 
-**Dependências**
 
-      | Dependência               | Descrição                                                    |
+**Dependências**
+<br />
+
+Neste projeto vamos inserir 3 dependências, conforme mostra a figura abaixo:
+
+<br />
+
+<div align="center"><img src="https://i.imgur.com/jeY8cYu.png" title="source: imgur.com" /></div>
+
+<br />
+
+| Dependência               | Descrição                                                    |
 | ------------------------- | ------------------------------------------------------------ |
 | **Spring Web**            | Fornece todas as Bibliotecas necessárias para trabalhar com o protocolo http. |
 | **Spring Boot Dev Tools** | Permite a atualização do projeto em tempo real durante o processo de Desenvolvimento da aplicação. |
 | **Validation**            | Fornece um conjunto de anotações que permite validar os atributos das Classes da Camada Model. |
 
-
-
+<br />
 
 ![unknown (6)](https://user-images.githubusercontent.com/57760132/126806902-5454a036-4738-4df4-a1a8-6ac347457d92.png)
 ###2. Clicar nno botão GENERATE CTRL +
@@ -57,6 +78,7 @@
 ![unknown (11)](https://user-images.githubusercontent.com/57760132/126807003-12aec31f-70e3-4052-b2f8-43f19fad3c30.png)
 ###7. Verificar se o arquivo *.pom* esta marcado.
 
+<br />
 <div align="center"> <h2>*** IMPORTANTE ***</h2></div>
 
 Caso o projeto apresente algum erro no arquivo pom.xml, utilize o <b>Guia de correção do arquivo pom.xml</b> para corrigir o problema.
@@ -76,14 +98,14 @@ Caso o projeto apresente algum erro no arquivo pom.xml, utilize o <b>Guia de cor
 
 
 ![image](https://user-images.githubusercontent.com/57760132/126807359-17757a75-c493-473e-84b9-4b884bbc75be.png)
-###10.Criar uma nova classe
+###10.Criar uma nova classe ( boas práticas começas com letra maiúscula ) 
 
 
 ![image](https://user-images.githubusercontent.com/57760132/126807904-784e40c9-9d3c-47d8-9c32-199db65e309b.png)
 ###11.Utlilizar as anotações *@RequestController e @RequestMapping("/aqui dentro o caminho para exibir no http") e @GetMapping*, importante fazer os *imports* das anotações
 
 ![image](https://user-images.githubusercontent.com/57760132/126809372-1caf9173-ca91-42e4-8d79-395058b4ae4a.png)
-###11.No seu src clicar com bot~]ao direito do mouse e na opção "run as" executar o projeto java.
+###11.No seu src clicar com botãoo direito do mouse e na opção "run as" executar o projeto java.
 
 ![image](https://user-images.githubusercontent.com/57760132/126809939-8a56f736-a8ae-4673-92db-a9740c0dd379.png)
 ###12. Abra o seu navegador e através na url http://localhost:8080/( aqui o caminho que vc indicou na sua anotação @RequestMapping *atenção nao pode ter espaço nesse request*) o meu ficou: http://localhost:8080/hello 
