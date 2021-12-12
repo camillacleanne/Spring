@@ -5,8 +5,8 @@
 ## Como criar meu primeiro <olá mundo> backend com meu projeto Spring? 
 
 ## Sigam-me as pessoas boas:
-![image](https://imgur.com/a/4rEbDsE)
-<br />
+<div align="center"><img src="https://imgur.com/a/IQTdbWB" title="source: imgur.com" /></div>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/4rEbDsE"><a href="//imgur.com/4rEbDsE"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 <br />
 ###01. Pelo navegador entrar no site https://start.spring.io/
